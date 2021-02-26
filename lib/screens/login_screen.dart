@@ -31,6 +31,7 @@ class _LoginScreenState extends State<LoginScreen> {
               height: 48.0,
             ),
             TextField(
+              keyboardType: TextInputType.emailAddress,
               onChanged: (value) {
                 //Do something with the user input.
               },
@@ -41,6 +42,7 @@ class _LoginScreenState extends State<LoginScreen> {
               height: 8.0,
             ),
             TextField(
+              obscureText: true,
               onChanged: (value) {
                 //Do something with the user input.
               },
@@ -53,9 +55,7 @@ class _LoginScreenState extends State<LoginScreen> {
             RoundedButton(
               title: 'Login',
               colour: Colors.lightBlueAccent,
-              onPress: () {
-                Navigator.pushNamed(context, LoginScreen.id);
-              },
+              onPress: () {},
             ),
           ],
         ),
