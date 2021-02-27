@@ -1,12 +1,12 @@
 # Flash Chat ⚡️
 
-The objective is to learn how to incorporate Firebase into our Flutter apps. And using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud based NoSQL database and secure authentication methods.
+In this project I have learned how to incorporate Firebase into our Flutter apps. And using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud based NoSQL database and secure authentication methods.
 
 ## Screenshots 
 
-<img src = "images/Screenshot_1.png" height=500>
-<img src = "images/Screenshot_2.png" height=500>
-<img src = "images/Screenshot_3.png" height=500>
+<img src = "images/Screenshot_1.jpg" height=700>
+<img src = "images/Screenshot_2.jpg" height=700>
+<img src = "images/Screenshot_3.jpg" height=700>
 
 ## What I learnt
 
